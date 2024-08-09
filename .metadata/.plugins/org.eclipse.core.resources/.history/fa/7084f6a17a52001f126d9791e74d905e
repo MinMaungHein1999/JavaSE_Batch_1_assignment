@@ -1,0 +1,13 @@
+package main_app;
+import com.example.model.Employee;
+
+public class MainApp {
+
+	public static void main(String[] args) {
+		Employee emp1 = new Employee();
+		Employee emp2 = new Employee();
+		Employee emp3 = new Employee();
+
+	}
+
+}

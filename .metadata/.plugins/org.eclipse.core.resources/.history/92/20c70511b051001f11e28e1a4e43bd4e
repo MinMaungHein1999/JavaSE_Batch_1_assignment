@@ -1,0 +1,22 @@
+package ex2;
+
+public class MainApp {
+
+	public static void main(String[] args) {
+		
+		int age = 20;
+		System.out.println("age : " + age);
+		
+		Employee emp = new Employee();
+		emp.name = "Mg Mg";
+		emp.age = 30;
+		emp.address = "Yangon";
+		
+		System.out.println("Employee Name : " + emp.name );
+		System.out.println("Employee Phone : " + emp.name );
+		System.out.println("Employee age : " + emp.name );
+		
+
+	}
+
+}

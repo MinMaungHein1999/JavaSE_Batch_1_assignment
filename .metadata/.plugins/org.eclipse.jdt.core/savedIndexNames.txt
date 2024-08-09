@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+/Users/minmaunghein/javaSE_Batch-1/.metadata/.plugins/org.eclipse.jdt.core
+2189948840.index
+2910558335.index
+390807559.index
+7051856.index
+1865797976.index

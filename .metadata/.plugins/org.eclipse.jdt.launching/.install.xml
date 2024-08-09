@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/Users/minmaunghein/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.10.v20240120-1143" stamp="1714143638407"/>
+    <entry loc="/Users/minmaunghein/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.10.v20240120-1143/jre" stamp="1714143638406"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home" stamp="1711941866687"/>
+    <entry loc="/opt/homebrew/Cellar/openjdk@11/11.0.23/libexec/openjdk.jdk/Contents/Home" stamp="1712554718000"/>
+    <entry loc="/Users/minmaunghein/Library/Java/JavaVirtualMachines/corretto-17.0.11/Contents/Home" stamp="1715273703102"/>
+    <entry loc="/Users/minmaunghein/Library/Java/JavaVirtualMachines/openjdk-22.0.1/Contents/Home" stamp="1715273986802"/>
+    <entry loc="/Users/minmaunghein/Library/Java/JavaVirtualMachines/corretto-21.0.3/Contents/Home" stamp="1715273731416"/>
+</dirs>

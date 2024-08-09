@@ -1,0 +1,10 @@
+package ex2;
+
+public class Example1 {
+	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	public static void main(String args[]) {
+		
+		
+		
+	}
+}
